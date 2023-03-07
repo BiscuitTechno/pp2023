@@ -9,7 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY NAME is TONG THI NGOC BICH 
+* Student Name: TONG THI NGOC BICH 
 * Student ID: BI12-054
 
 
